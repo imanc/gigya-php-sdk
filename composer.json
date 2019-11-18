@@ -16,8 +16,6 @@
         "ext-json": "*"
     },
     "autoload": {
-        "psr-4": {
-            "Gigya\\": ["src/GSSDK.lib/"]
-        }
+        "classmap": ["src/GSSDK.lib/"]
     }
 }
