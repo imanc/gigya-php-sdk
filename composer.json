@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Gigya\\": ["src/GSSDK.lib"]
+            "Gigya\\": ["src/GSSDK.lib/"]
         }
     }
 }
